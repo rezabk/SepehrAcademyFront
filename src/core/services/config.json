@@ -1,0 +1,4 @@
+{
+    "farsapi" : "https://sepehracademyapi.iran.liara.run/api/",
+    "localapi" : "localhost:3001"
+}
